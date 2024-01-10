@@ -7,6 +7,6 @@ Favorite list fuctionality.
 ## Tack Stack
 Flutter
 Dart
-
+Riverpod State
 
 
